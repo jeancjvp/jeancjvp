@@ -1,7 +1,5 @@
 ## Hello there, I'm Jean C 👋 ##
 
-<br />
-
 [emojis]: https://gist.github.com/rxaviers/7360908
 #### I'm a Jean C Villarroel, System Engineer - Senior Full Stack Web Developer ####
 
