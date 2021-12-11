@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/jean-carlos-villarroel-4a624a116/">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" />
 </a>
-<a href="https://www.linkedin.com/in/jean-carlos-villarroel-4a624a116/">
+<a href="https://github.com/jeancjvp">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github"/>
 </a>
 
