@@ -4,7 +4,7 @@
 #### I'm a Jean C Villarroel, System Engineer - Senior Full Stack Web Developer ####
 
 ### Projects ###
-<a href="https://www.nexuverse.com/">Nexuverse</a>
+<a href="https://www.nexuverse.com/">Nexuverse</a><br/>
 <a href="https://jcv-app-currency-converter.herokuapp.com/">Currency Converter</a>
 
 ### Connect with me: ###
