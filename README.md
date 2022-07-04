@@ -3,13 +3,9 @@
 [emojis]: https://gist.github.com/rxaviers/7360908
 #### I'm a Jean C Villarroel, System Engineer - Senior Full Stack Web Developer ####
 
-<br />
-
 ### Projects ###
 <a href="https://www.nexuverse.com/">Nexuverse</a>
 <a href="https://jcv-app-currency-converter.herokuapp.com/">Currency Converter</a>
-
-<br />
 
 ### Connect with me: ###
 [icon-urls]: https://devicon.dev/
@@ -19,8 +15,6 @@
 <a href="https://github.com/jeancjvp">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github"/>
 </a>
-
-<br />
 
 ### Languages and Tools: ###
 [icon-urls]: https://devicon.dev/
@@ -38,8 +32,6 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
-
-<br />
 
 ## My GitHub Stats ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeancjvp)](https://github.com/jeancjvp/github-readme-stats)
