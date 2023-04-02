@@ -5,7 +5,7 @@
 
 ### Projects ###
 <a href="https://nexuverse-frontend.vercel.app/">Nexuverse</a><br/>
-<a href="https://currency-converter-gilt-ten.vercel.app/">Currency Converter</a>
+<a href="https://currency-converter-gilt-ten.vercel.app/">Currency Converter</a><br/>
 <a href="https://salary-calculator-frontend.vercel.app/">US - Income Tax Calculator</a>
 
 ### Connect with me: ###
