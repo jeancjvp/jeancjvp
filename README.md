@@ -1,40 +1,61 @@
-## Hello there, I'm Jean C 👋 ##
+# 👋 Hello, I'm Jean C. Villarroel  
 
-[emojis]: https://gist.github.com/rxaviers/7360908
-#### I'm a Jean C Villarroel, System Engineer - Senior Full Stack Web Developer ####
+## 🚀 About Me  
+I'm a **Senior Backend Developer** with over **8 years of experience** specializing in **RESTful API design, scalable architectures, and backend system optimization**. My expertise includes **Node.js, TypeScript, PHP, PostgreSQL, and Redis**, with hands-on experience in **AWS cloud services, message queues (Kafka, RabbitMQ), and CI/CD automation (GitHub Actions, Terraform)**. Passionate about building **secure, high-performance APIs** that power modern web applications.  
 
-### Projects ###
-<a href="https://nexuverse-frontend.vercel.app/">Nexuverse</a><br/>
-<a href="https://currency-converter-gilt-ten.vercel.app/">Currency Converter</a><br/>
-<a href="https://salary-calculator-frontend.vercel.app/">US - Income Tax Calculator</a>
+---  
 
-### Connect with me: ###
-[icon-urls]: https://devicon.dev/
-<a href="https://www.linkedin.com/in/jean-carlos-villarroel-4a624a116/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" />
-</a>
-<a href="https://github.com/jeancjvp">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github"/>
-</a>
+## 🔧 Technical Skills  
+### Languages & Frameworks  
+<p align="left">  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" /> 
+    <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" title="NestJS" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" />  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />  
+</p>  
 
-### Languages and Tools: ###
-[icon-urls]: https://devicon.dev/
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML 5" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS 3" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
+### Databases & Caching  
+<p align="left">  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" />  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" />  
+</p>  
 
-## My GitHub Stats ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeancjvp)](https://github.com/jeancjvp/github-readme-stats)
+### Cloud & DevOps  
+<p align="left">  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" />  
+</p>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeancjvp)](https://github.com/jeancjvp/github-readme-stats)
+### Messaging & Event-Driven Systems  
+<p align="left">  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Kafka" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" /> 
+</p>  
+
+### Testing & Logging  
+<p align="left">  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" /> 
+</p>  
+
+---  
+
+## 📌 Featured Projects  
+🔹 [Nexuverse](https://nexuverse-frontend.vercel.app/) - A dynamic and scalable web platform.  
+🔹 [Currency Converter](https://currency-converter-gilt-ten.vercel.app/) - A real-time currency conversion tool.  
+🔹 [US - Income Tax Calculator](https://salary-calculator-frontend.vercel.app/) - A web app for estimating US income tax.  
+
+---  
+
+## 📫 Connect With Me  
+<p align="left">  
+    <a href="https://www.linkedin.com/in/jean-carlos-villarroel"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" /></a>  
+    <a href="https://github.com/jeancjvp"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github"/></a>  
+</p>  
+
+---  
