@@ -11,9 +11,10 @@ I'm a **Senior Backend Developer** with over **8 years of experience** specializ
     <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />  
     <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />  
     <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />  
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" /> 
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" style="background-color: white; padding: 4px; border-radius: 4px;" /> 
     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" title="NestJS" />
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" />  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" />
+</a>  
     <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />  
 </p>  
 
